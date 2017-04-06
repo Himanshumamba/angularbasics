@@ -1,2 +1,4 @@
-# angularbasics
-text box addition
+# angularbasics 
+
+learn to add items on table 
+
